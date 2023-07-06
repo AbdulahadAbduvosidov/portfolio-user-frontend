@@ -1,5 +1,5 @@
 <template>
-    <section  class="bg-[#1A1A29] h-[1000px] w-screen">
+    <section id="projects" class="bg-[#1A1A29] h-[1000px] w-screen">
         <div class="container mx-auto">
             <div>
                 <h1 class="text-[#7562E0] text-[60px] text-start font-semibold">Projects:</h1>

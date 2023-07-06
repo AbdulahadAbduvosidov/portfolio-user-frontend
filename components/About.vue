@@ -1,5 +1,5 @@
 <template>
-    <section class="bg-[#1A1A29] h-[1000px] w-screen">
+    <section id="about" class="bg-[#1A1A29] h-[1000px] w-screen">
         <div class="container mx-auto">
             <div class="text-white flex items-start flex-col">
                 <h1 class="text-[50px] text-[#7562E0] font-semibold">About Me:</h1>

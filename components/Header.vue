@@ -7,10 +7,9 @@
                     <h1 class="text-[36px] text-[#3730a3]"><b>Abduvosidov Abdulahad</b></h1>
                 </div>
                 <div class="text-white flex gap-[70px] text-[24px]">
-                    <NuxtLink to="/">Home</NuxtLink>
-                    <p>About me</p>
-                    <p>Projects</p>
-                    <p>Contact</p>
+                    <a href="#about"> About me</a>
+                    <a href="#projects">Projects</a>
+                    <a href="#contact">Contact</a>
                 </div>
             </div>
         </nav>
@@ -19,10 +18,7 @@
 </template>
 
 <script setup>
-
-
 </script>
 
 <style lang="scss" scoped>
-
 </style>
