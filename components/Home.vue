@@ -3,11 +3,10 @@
         <div class="container mx-auto">
             <div class="h-screen flex justify-between">
                 <div class="text-white pt-[250px] w-2/5">
-                    <h1 class="text-[44px]">Hello, i'm</h1>
+                    <h1 class="text-[44px]">Hello, I'm</h1>
                     <h2 class="text-[65px]"><b>Abduvosidov</b></h2>
                     <h2 class="text-[65px] mt-[-40px]"><b>Abdulahad</b></h2>
-                    <p class="text-[20px]">My name's <b>Abdulahad</b>, I'm 15 years old and I'm from Tashkent, Uzbekistan.
-                        Such a specialist understands both the Back-end component and the Front-end.</p>
+                    <p class="text-[20px]">Full stack (NodeJS+VueJS) developer.</p>
                     <div class="flex gap-[40px] text-[18px] mt-[30px]">
                         <button
                             class="items-center justify-center w-[210px] h-[60px] bg-[#3730a3] rounded-[8px] hover:bg-[#1A1A29] hover:border-[2px] hover:border-white"><a
