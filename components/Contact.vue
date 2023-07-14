@@ -45,5 +45,3 @@ const icando = [
   }
 ];
 </script>
-
-<style lang="css" src="../public/css/animation.css" scoped></style>

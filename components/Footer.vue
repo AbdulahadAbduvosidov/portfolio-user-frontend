@@ -7,7 +7,5 @@
     </div>
   </section>
 </template>
-  
-<script setup></script>
 
-<style lang="css" src="../public/css/animation.css" scoped></style>
+<script setup></script>

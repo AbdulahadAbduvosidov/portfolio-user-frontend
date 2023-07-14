@@ -9,8 +9,9 @@
                     <p class="text-[20px]">Full stack (NodeJS+VueJS) developer.</p>
                     <div class="flex gap-[40px] text-[18px] mt-[30px]">
                         <button
-                            class="items-center justify-center w-[210px] h-[60px] bg-[#3730a3] rounded-[8px] hover:bg-[#1A1A29] hover:border-[2px] hover:border-white"><a
-                                href="#about">Download CV</a></button>
+                            class="items-center justify-center w-[210px] h-[60px] bg-[#3730a3] rounded-[8px] hover:bg-[#1A1A29] hover:border-[2px] hover:border-white">
+                            <a href="../public/cv/AbdulahadAbduvosidov.docx">Download CV</a>
+                        </button>
                     </div>
                 </div>
                 <div class="mt-[220px]">
