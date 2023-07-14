@@ -10,7 +10,7 @@
                     <div class="flex gap-[40px] text-[18px] mt-[30px]">
                         <button
                             class="items-center justify-center w-[210px] h-[60px] bg-[#3730a3] rounded-[8px] hover:bg-[#1A1A29] hover:border-[2px] hover:border-white">
-                            <a href="../public/cv/AbdulahadAbduvosidov.docx" download="AbdulahadAbduvosidov.docx">Download CV</a>
+                            <a href="https://docs.google.com/document/d/1_yYxLO8BoQEXHf_Ya3s2cqnud7IOt0Mciy7hYPdBkm8/edit">Download CV</a>
                         </button>
                     </div>
                 </div>
